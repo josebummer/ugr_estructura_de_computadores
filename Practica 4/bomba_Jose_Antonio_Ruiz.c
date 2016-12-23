@@ -8,7 +8,7 @@ Compilado con -O0.
 #include <string.h>	// para strncmp()/strlen()
 #include <sys/time.h>	// para gettimeofday(), struct timeval
 
-char password[]="krodvrbmrvh";  //holasoyjose
+char password[]="krodvrbmrvh\n";  //holasoyjose
 int  passcode  = 1234;
 void encripta(char *cadena){
 	for( int i = 0; i < strlen(cadena);i++ ){
