@@ -1,0 +1,6 @@
+A las posiciones pares suma 2 y a las impares suma 1
+
+El codigo le resta 123
+
+pass --> ILoveEC
+code --> 1974

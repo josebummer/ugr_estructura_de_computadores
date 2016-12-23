@@ -1,0 +1,6 @@
+Suma 5 a los elementos pares de la palabra
+
+Suma 12345 al code
+
+pass --> povedilla
+clave --> 71717
